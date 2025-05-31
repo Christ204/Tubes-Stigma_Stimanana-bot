@@ -32,7 +32,7 @@ Kelompok Stimanana menggunakan beberapa strategi greedy untuk menentukan langkah
 9. **should_press_red_button**: Menentukan apakah bot harus menekan red button berdasarkan jumlah _Diamonds_ yang dimiliki.
 10. **next_move**: Fungsi utama yang menentukan langkah selanjutnya bot berdasarkan berbagai strategi greedy.
 
-Implementasi dari algoritma tersebut dapat ditemukan di file _padibot.py_ pada strutktur:
+Implementasi dari algoritma tersebut dapat ditemukan di file _Stimanana.py_ pada struktur:
 ```
 src/game/logic/Stimanana.py
 ```
