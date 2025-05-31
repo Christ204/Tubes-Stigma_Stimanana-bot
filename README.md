@@ -63,5 +63,5 @@ chmod +x ./run-bots.sh
 ```
 5. Pemain dapat menjalankan bot secara manual dengan memasukkan _command_ :
 ```
-python main.py --logic Padibot --email=ilmupadi@email.com --name=stima --password=123456 --team etimo
+python main.py --logic Stimanana --email=stimanana@email.com --name=stimanana --password=stimanana --team etimo
 ```
