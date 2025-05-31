@@ -45,7 +45,7 @@ Sebelum proses instalasi, pengguna harus memasang _requirements_ sebagai berikut
 
 1. Clone repository ini sebagai algoritma bot yang akan digunakan
 ```
-git clone 
+git clone https://github.com/Christ204/Tubes-Stigma_Stimanana-bot.git
 ```
 2. Clone repository ini sebagai _game engine_.
 ```
